@@ -1,3 +1,3 @@
 import { setPublicPath } from 'systemjs-webpack-interop';
 
-setPublicPath('rashidmalav', 2);
+setPublicPath('@fc/rashidmalav', 2);
